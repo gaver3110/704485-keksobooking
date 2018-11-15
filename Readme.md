@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Oleg Koloberdian](https://up.htmlacademy.ru/javascript/16/user/704485).
-* Наставник: `Неизвестно`.
+* Наставник: Евгений Щеколдин
 
 ---
 
